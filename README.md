@@ -80,4 +80,4 @@ Mazwällaitösp/Maţřëullaitösp is yet another community [TNIL](https://ithku
 
 # Copyright
 Ithkuil and TNIL are copyright of John Quijada. TNIL was formed in part with the suggestions and ideas of community members. Neither are the claimed by the creator of this repo.
-The name mazwällaitöps was thought up by Tortus_exe
+The name mazwällaitösp was thought up by Tortus_exe
