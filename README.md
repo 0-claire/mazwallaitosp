@@ -77,3 +77,6 @@ Mazwällaitösp/Maţřëullaitösp is yet another community [TNIL](https://ithku
 		* Cute!!
 * Modifications
 	* Sonorous/shoutable biases
+
+# Copyright
+Ithkuil and TNIL are copyright of John Quijada. TNIL was formed in part with the suggestions and ideas of community members. Neither are the claimed by the creator of this repo.
