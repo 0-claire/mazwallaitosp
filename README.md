@@ -3,7 +3,7 @@ tags:
   - Categories/Languages/Ithkuil
 related: 
 created: 2025-06-04T19:13:59-04:00
-updated: 2025-06-04T19:39:26-04:00
+updated: 2025-06-04T20:13:41-04:00
 ---
 
 
@@ -11,8 +11,12 @@ updated: 2025-06-04T19:39:26-04:00
 
 Mazwällaitösp/Maţřëullaitösp is yet another community [TNIL](https://ithkuil.net/) revision/expansion project. It is at the moment a collection of ideas about extending and improving the language for the purposes of being more flexible, more intuitive, and more useable
 
+_The description suggestions that there have been other ‘revisions’ of TNIL but I do not believe this to be the case. I believe the other projects are their own languages inspiration from TNIL. An update to the name and description of this project may be warranted_
+
 ## Roadmap
-### Brainstorm
+### Brainstorming
+The following is brainstorming and thus is of varying degrees of quality, accuracy, relevance, etc
+
 * Root additions
 	* Yarn
 		* Crochet. Knitting
@@ -23,19 +27,16 @@ Mazwällaitösp/Maţřëullaitösp is yet another community [TNIL](https://ithku
 	* Technology
 		* Użkw: voice over internet; voice calls
 		* Website
-		* ~~Personal computer~~
-		* ~~Mobile phone~~
 		* Computer components
+			* PSU, CPU, RAM, NVME, SSD, HDD, SATA, I2C, Serial, USB, GPU, Network Card, &e
 		* User interface, window, tab, menu, dialogue, text box/text field
 		* Parts of a book. Covers, binding 
 		* ? iPhone, Android, Windows, Linux, BSD, Solaris - just use carrier?
 	* Misc
-		* To miss something (e.g. miss the bus, miss the meeting)
-			* https://discord.com/channels/131937038139260928/509906677210808340/1351970735135916062
 * Context additions
 	* “Name”
 * Misc
-	* Acronym support
+	* Acronym support ?
 	* ![[-Resources/Attachments/Pasted image 20250603230326.png]]
 * Script
 	* Indication of shortcut
@@ -79,5 +80,6 @@ Mazwällaitösp/Maţřëullaitösp is yet another community [TNIL](https://ithku
 	* Sonorous/shoutable biases
 
 # Copyright
-Ithkuil and TNIL are copyright of John Quijada. TNIL was formed in part with the suggestions and ideas of community members. Neither are the claimed by the creator of this repo.
-The name mazwällaitösp was thought up by Tortus_exe
+- Ithkuil and TNIL are copyright of John Quijada. TNIL was formed in part with the suggestions and ideas of community members. Neither are the claimed by the creator of this repo.
+- The name mazwällaitösp was thought up by Tortus_exe
+- **TODO:** copyright for this repo
