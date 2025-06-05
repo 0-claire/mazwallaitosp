@@ -3,7 +3,7 @@ tags:
   - Categories/Languages/Ithkuil
 related: 
 created: 2025-06-04T19:13:59-04:00
-updated: 2025-06-04T20:13:41-04:00
+updated: 2025-06-04T20:14:50-04:00
 ---
 
 
@@ -13,8 +13,8 @@ Mazwällaitösp/Maţřëullaitösp is yet another community [TNIL](https://ithku
 
 _The description suggestions that there have been other ‘revisions’ of TNIL but I do not believe this to be the case. I believe the other projects are their own languages inspiration from TNIL. An update to the name and description of this project may be warranted_
 
+## Changes
 ## Roadmap
-### Brainstorming
 The following is brainstorming and thus is of varying degrees of quality, accuracy, relevance, etc
 
 * Root additions
